@@ -19,7 +19,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<your-username>/readme-forge.git
+git clone https://github.com/xnezerxx/readme-forge.git
 cd readme-forge
 ```
 
