@@ -1,0 +1,7 @@
+{
+  "description": "Инструмент для автоматической документации",
+  "usage": "python main.py --help",
+  "sections": {
+    "Roadmap": "- Поддержка Go-проектов\n- Экспорт в HTML"
+  }
+}
